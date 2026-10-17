@@ -26,6 +26,7 @@ control flow needed to process them: `if` / `else if` / `else`,
 ```
 SE4041-Practical-02/
 ├── README.md
+├── SE4041-Practical-02.playground/    (open this in Xcode)
 ├── Exercise01.swift
 ├── Exercise02.swift
 ├── Exercise03.swift
@@ -35,6 +36,15 @@ SE4041-Practical-02/
 ├── FinalChallenge.swift
 └── screenshots/
 ```
+
+## Opening This in Xcode
+
+Double-click `SE4041-Practical-02.playground` to open the whole
+practical in Xcode. It contains one page per exercise, listed in the
+navigator on the left, and each page runs on its own.
+
+The individual `.swift` files in the repository root are the same code
+saved separately, as the lab sheet requires for submission.
 
 ## What Each File Contains
 
