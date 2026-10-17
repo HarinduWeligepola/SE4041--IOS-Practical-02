@@ -27,17 +27,16 @@ control flow needed to process them: `if` / `else if` / `else`,
 SE4041-Practical-02/
 ├── README.md
 ├── .gitignore
-├── SE4041-Practical-02.playground/    (open this in Xcode)
+├── SE4041-Practical-02.playground/
 │   ├── contents.xcplayground
-│   └── Pages/                          one page per exercise
-├── Sources/
-│   ├── Exercise01.swift
-│   ├── Exercise02.swift
-│   ├── Exercise03.swift
-│   ├── Exercise04.swift
-│   ├── Exercise05.swift
-│   ├── Exercise06.swift
-│   └── FinalChallenge.swift
+│   └── Pages/
+│       ├── Exercise 01.xcplaygroundpage/
+│       ├── Exercise 02.xcplaygroundpage/
+│       ├── Exercise 03.xcplaygroundpage/
+│       ├── Exercise 04.xcplaygroundpage/
+│       ├── Exercise 05.xcplaygroundpage/
+│       ├── Exercise 06.xcplaygroundpage/
+│       └── Final Challenge.xcplaygroundpage/
 └── screenshots/
 ```
 
@@ -47,20 +46,18 @@ Double-click `SE4041-Practical-02.playground` to open the whole
 practical in Xcode. It contains one page per exercise, listed in the
 navigator on the left, and each page runs on its own.
 
-The same code is also saved as individual `.swift` files in `Sources/`,
-as the lab sheet requires for submission.
 
-## What Each File Contains
+## What Each Page Contains
 
-| File | Topic |
+| Page | Topic |
 |---|---|
-| `Exercise01.swift` | Arrays, indexing, properties, modification, array methods, Activity 1 |
-| `Exercise02.swift` | Sets, uniqueness, membership, set operations, Activity 2 |
-| `Exercise03.swift` | Dictionaries, optional lookups, `??`, `if let`, phone book activity |
-| `Exercise04.swift` | `if` / `else if` / `else`, attendance activity |
-| `Exercise05.swift` | `switch`, closed and half-open ranges, temperature activity |
-| `Exercise06.swift` | `for-in`, `enumerated()`, `while`, `repeat-while`, `break`, `continue`, knowledge check answers |
-| `FinalChallenge.swift` | Student Performance Manager with the additional challenge |
+| Exercise 01 | Arrays, indexing, properties, modification, array methods, Activity 1 |
+| Exercise 02 | Sets, uniqueness, membership, set operations, Activity 2 |
+| Exercise 03 | Dictionaries, optional lookups, `??`, `if let`, phone book activity |
+| Exercise 04 | `if` / `else if` / `else`, attendance activity |
+| Exercise 05 | `switch`, closed and half-open ranges, temperature activity |
+| Exercise 06 | `for-in`, `enumerated()`, `while`, `repeat-while`, `break`, `continue`, knowledge check answers |
+| Final Challenge | Student Performance Manager with the additional challenge |
 
 ## Choosing the Correct Collection
 
